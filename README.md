@@ -21,7 +21,7 @@ First install all the npm packages:
 ```
 npm ci
 ```
-
+ 
 And then install all the python packages using pip3:
 
 ```
